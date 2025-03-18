@@ -1,5 +1,5 @@
 # DS-2002 Mid-Term Project
-(Download the ipynb file to see the full thing!)
+#### (Download the .ipynb file to see the full thing, GitHub won't show the whole file in preview mode!)
 
 #### **1. Overview**
 This project demonstrates an ETL (Extract, Transform, Load) pipeline using MySQL, MongoDB, and local file system data sources to populate a dimensional data mart. The goal is to process structured and semi-structured data from multiple sources and store it in a data warehouse for analysis.
